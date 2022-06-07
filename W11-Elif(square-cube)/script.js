@@ -1,3 +1,4 @@
+
 let squaredResult = document.getElementById("squared-result");
 let cubedResult = document.getElementById("cubed-result");
 let inputNumber = document.getElementById("input-number");
